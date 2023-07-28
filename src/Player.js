@@ -59,7 +59,7 @@ function Player(props) {
         Next up:{" "}
         <span>
           {props.songs[props.nextSongIndex].title} by{" "}
-          {props.songs[props.nextSongIndex].artist}
+          
         </span>
       </p>
     </div>
